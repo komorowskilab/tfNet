@@ -658,4 +658,4 @@ tfNet_x64.exe peaks [-i path] [-o path] [--mem integer] [--cols integer] [--tfLi
 </table>
 
 ## Citation
-Klev Diamanti, Husen M Umer, Marcin Kruczyk, Michał J Dąbrowski, Marco Cavalli, Claes Wadelius, Jan Komorowski (2016). "Maps of context-dependent putative regulatory regions and genomic signal interactions". Nucleic Acids Research 44(19):9110-9120.
+Klev Diamanti, Husen M Umer, Marcin Kruczyk, Michał J Dąbrowski, Marco Cavalli, Claes Wadelius, Jan Komorowski (2016). "Maps of context-dependent putative regulatory regions and genomic signal interactions". Nucleic Acids Research 44(19):9110-9120. [<a href="https://academic.oup.com/nar/article/44/19/9110/2468446" target="_blank">link</a>]
